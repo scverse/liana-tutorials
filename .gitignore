@@ -1,0 +1,11 @@
+# Data & model artifacts downloaded/produced when running the notebooks
+*.h5ad
+*.gz
+*.db
+*.pkl
+data/
+models/
+
+# OS / editor cruft
+.DS_Store
+.ipynb_checkpoints/
