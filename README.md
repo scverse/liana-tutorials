@@ -1,13 +1,13 @@
 # liana-tutorials
 
-This repository hosts the tutorials for [LIANA+](https://github.com/saezlab/liana-py).
+This repository hosts the tutorials for [LIANA+](https://github.com/scverse/liana-py).
 
-<img src="https://raw.githubusercontent.com/saezlab/liana-py/main/docs/_static/abstract.png" width="700" align="center">
+<img src="https://raw.githubusercontent.com/scverse/liana-py/main/docs/_static/abstract.png" width="700" align="center">
 
 The notebooks live in [`notebooks/`](notebooks) and are rendered as part of the
 LIANA+ documentation: https://liana-py.readthedocs.io
 
-They are included in the main [liana-py](https://github.com/saezlab/liana-py)
+They are included in the main [liana-py](https://github.com/scverse/liana-py)
 repository as a git submodule (`docs/tutorials`), so the rendered versions in the
 docs always track this repository.
 
